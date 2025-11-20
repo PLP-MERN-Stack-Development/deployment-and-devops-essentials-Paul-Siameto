@@ -1,0 +1,20 @@
+{
+  "name": "deployment-and-devops-essentials-paul-siameto",
+  "version": "1.0.0",
+  "description": "This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/deployment-and-devops-essentials-Paul-Siameto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/deployment-and-devops-essentials-Paul-Siameto/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/deployment-and-devops-essentials-Paul-Siameto#readme"
+}
